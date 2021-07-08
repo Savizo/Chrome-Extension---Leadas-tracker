@@ -1,0 +1,16 @@
+{
+    "manifest_version": 3,
+    "version": "1.0.0",
+    "description": "Save Web Pages",
+    "name": "Leadas tracker",
+    "icons": {
+        "128": "icons.png"
+    },
+    "action": {
+        "default_popup": "some.html",
+        "default_icon": "icons.png"
+    },
+    "permissions": [
+        "tabs"
+    ]
+}
